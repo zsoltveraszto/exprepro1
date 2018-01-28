@@ -101,3 +101,9 @@
 # Design number was non-random = 16
 #
 [false,16,["Controller name","Item number","Element number","Type","Group","Field name","Field value"],[[[0,"Form"],[1,7],[2,0],[3,"practicea1"],[4,"NULL"],[5,"blank-1"],[6,"iujkjk"]],[[0,"Form"],[1,7],[2,0],[3,"practicea1"],[4,"NULL"],[5,"_REACTION_TIME_"],[6,3471]],[[0,"Form"],[1,6],[2,0],[3,"exit"],[4,"NULL"],[5,"randomfield"],[6,"Nt28pymT"]],[[0,"Form"],[1,6],[2,0],[3,"exit"],[4,"NULL"],[5,"worker_id"],[6,"efdsfds"]],[[0,"Form"],[1,6],[2,0],[3,"exit"],[4,"NULL"],[5,"identifier"],[6,"Nt28pymT"]],[[0,"Form"],[1,6],[2,0],[3,"exit"],[4,"NULL"],[5,"_REACTION_TIME_"],[6,13456]]],"OZav9mEe7upqrXJGgGz/RQ",true]
+#
+# Results on Sunday January 28 2018 22:02:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+# Design number was non-random = 17
+#
+[false,17,["Controller name","Item number","Element number","Type","Group","Field name","Field value"],[[[0,"Form"],[1,2],[2,0],[3,"intro"],[4,"NULL"],[5,"_REACTION_TIME_"],[6,144536]]],"Q26nXmXMuPqx4Erbo/Ri7A",true]
